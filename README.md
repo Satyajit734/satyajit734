@@ -49,35 +49,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyajitsamanta&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=satyajitsamanta&show_icons=true&theme=tokyonight&hide_border=true&custom_title=⚡%20GitHub%20Stats&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" width="100%" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=satyajitsamanta&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitsamanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="50%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyajitsamanta&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="90%" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
