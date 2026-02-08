@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=Satyajit%20Samanta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Python%20•%20React%20•%20Django&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=Satyajit%20Samanta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+workspace!+🚀;Full+Stack+Developer+passionate+about+tech;Building+scalable+web+applications;Python+%2B+React+%2B+Django+Developer;Always+coding%2C+always+learning+✨;Let's+build+something+incredible!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+workspace!+🚀;Frontend+Developer+passionate+about+tech;Building+beautiful+user+experiences;Always+coding%2C+always+learning+✨;Let's+build+something+incredible!" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -18,9 +18,7 @@
 
 - 💼 **Full Stack Developer** with expertise in end-to-end development
 - 🎓 **BCA Graduate** from NSHM Knowledge Campus
-- 🐍 **Python Developer** - Backend APIs & Data Processing
 - ⚛️ **React Developer** - Modern frontend applications
-- 🌐 **Django Expert** - Scalable web applications
 - 🚀 **Full-Stack Engineer** - Complete solution architect
 - 🔧 Building **production-ready applications**
 - 🌱 Contributing to **open source projects**
